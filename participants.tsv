@@ -1,0 +1,15 @@
+participant_id	species	sex	strain
+sub-m-20210315_PTV_BPN-BPH	Mus musculus	M	C57BL/6
+sub-m-20210524_PTV_BPN-BPH	Mus musculus	F	C57BL/6
+sub-m-20210525_PTV_BPN-BPH	Mus musculus	F	C57BL/6
+sub-m-20210526_PTV_BPN-BPH	Mus musculus	F	C57BL/6
+sub-m-20210527_PTV_BPN	Mus musculus	M	C57BL/6
+sub-r-22-07-06-rat2	Rattus norvegicus	M	001
+sub-r-22-08-26-rat4	Rattus norvegicus	M	001
+sub-r-23-03-31	Rattus norvegicus	M	001
+sub-r-23-09-05	Rattus norvegicus	M	001
+sub-r-23-09-25	Rattus norvegicus	M	001
+sub-r-24-04-28	Rattus norvegicus	F	001
+sub-r-24-05-05	Rattus norvegicus	F	001
+sub-r-24-07-31	Rattus norvegicus	M	001
+sub-r-24-07-31_rat2	Rattus norvegicus	M	001

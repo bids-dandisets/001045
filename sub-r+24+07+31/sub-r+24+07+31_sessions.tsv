@@ -1,6 +1,6 @@
-session_id
-ses-r+24+07+31+Zstack+downstream2
-ses-r+24+07+31+Zstack+upstream
-ses-r+24+07+31+particles+downstream
-ses-r+24+07+31+particles+downstream+001
-ses-r+24+07+31+particles+upstream+001
+session_id	original_session_id
+ses-r+24+07+31+Zstack+downstream2	ses-r-24-07-31_Zstack-downstream2
+ses-r+24+07+31+Zstack+upstream	ses-r-24-07-31_Zstack-upstream
+ses-r+24+07+31+particles+downstream	ses-r-24-07-31_particles_downstream
+ses-r+24+07+31+particles+downstream+001	ses-r-24-07-31_particles_downstream_001
+ses-r+24+07+31+particles+upstream+001	ses-r-24-07-31_particles_upstream_001

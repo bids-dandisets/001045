@@ -1,7 +1,7 @@
-session_id
-ses-r+23+09+05+particles+art1+up+101min
-ses-r+23+09+05+particles+art2+down+79min
-ses-r+23+09+05+particles+art2+up+65min
-ses-r+23+09+05+zstack+art1+up+118min+001
-ses-r+23+09+05+zstack+art2+down+92min
-ses-r+23+09+05+zstack+art2+up+97min
+session_id	original_session_id
+ses-r+23+09+05+particles+art1+up+101min	ses-r-23-09-05_particles-art1-up-101min
+ses-r+23+09+05+particles+art2+down+79min	ses-r-23-09-05_particles-art2-down-79min
+ses-r+23+09+05+particles+art2+up+65min	ses-r-23-09-05_particles-art2-up-65min
+ses-r+23+09+05+zstack+art1+up+118min+001	ses-r-23-09-05_zstack-art1-up-118min_001
+ses-r+23+09+05+zstack+art2+down+92min	ses-r-23-09-05_zstack-art2-down-92min
+ses-r+23+09+05+zstack+art2+up+97min	ses-r-23-09-05_zstack-art2-up-97min

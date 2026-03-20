@@ -1,5 +1,5 @@
-session_id
-ses-r+23+09+25+particles+art1+down+71min
-ses-r+23+09+25+particles+art1+up+58min
-ses-r+23+09+25+zstack+art1+down+80min
-ses-r+23+09+25+zstack+art1+up+68min
+session_id	original_session_id
+ses-r+23+09+25+particles+art1+down+71min	ses-r-23-09-25_particles-art1-down-71min
+ses-r+23+09+25+particles+art1+up+58min	ses-r-23-09-25_particles-art1-up-58min
+ses-r+23+09+25+zstack+art1+down+80min	ses-r-23-09-25_zstack-art1-down-80min
+ses-r+23+09+25+zstack+art1+up+68min	ses-r-23-09-25_zstack-art1-up-68min
